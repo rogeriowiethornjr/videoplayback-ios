@@ -20,7 +20,7 @@ Pod::Spec.new do |spec|
   
  spec.dependency "ASValueTrackingSlider"
  spec.dependency 'Alamofire', '~> 5.4'
- spec.dependency 'AlamofireImage', '~> 3.1'
+ spec.dependency 'AlamofireImage', '~> 4.2'
  spec.dependency 'SnapKit', '~> 3.2.0'
  
 end
